@@ -779,11 +779,7 @@
                 pointer-events: all
             }
 
-            #scheme-metro {
-                width: 100%;
-                height: auto;
-                display: block
-            }
+           
 
             .st0 {
                 fill: #78c7c9
